@@ -1,4 +1,4 @@
-Basic Setup Commands
+# Basic Setup Commands
 git config --global user.name "<name>" - Sets your Git username globally.
 git config --global user.email "<email>" - Sets your email for commits globally.
 git init - Initializes a new Git repository in the current directory.
